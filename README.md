@@ -371,7 +371,7 @@ Create your UI designs visually:
 - **A2UI Composer**: https://a2ui-composer.syncfusion.com/
 
 ### API Keys & Accounts
-- **OpenRouter**: https://openrouter.ai/keys (Free tier available)
+- **OpenRouter**: https://openrouter.ai/keys
 - **OpenAI**: https://platform.openai.com/api-keys
 - **Anthropic**: https://console.anthropic.com/
 - **Google Gemini**: https://makersuite.google.com/app/apikey
